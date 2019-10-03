@@ -1,0 +1,12 @@
+{
+  "imgPath": "./assets/media/avatar.jpg",
+  "title": "Satinderpal Saggu",
+  "subtitle": "Office & Sales Coordinator",
+  "links": {
+    "fab fa-instagram": "https://www.instagram.com/er.satinderpal/",
+    "fab fa-facebook-square": "https://www.facebook.com/er.satinderpal",
+    "fab fa-linkedin": "https://www.linkedin.com/in/satinderpal-saggu-29b44734",
+    "fab fa-wpforms": "contact"
+  },
+  "formSubmit": "https://formspree.io/er.satinderpal@gmail.com"
+}
